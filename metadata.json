@@ -1,0 +1,7 @@
+{
+  "name": "Fattoria Smart Pro",
+  "description": "A comprehensive smart farm management system with AI-powered insights, animal tracking, production stats, and inventory monitoring.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
